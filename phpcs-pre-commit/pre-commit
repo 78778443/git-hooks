@@ -9,6 +9,7 @@
 PHPCS_BIN=/usr/bin/phpcs
 PHPCS_CODING_STANDARD=PEAR
 PHPCS_IGNORE=
+PHPCS_IGNORE_WARNINGS=1
 TMP_STAGING=".tmp_staging"
 
 # parse config
